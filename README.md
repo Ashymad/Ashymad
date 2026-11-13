@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello
 
-<!--
-**Ashymad/Ashymad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an enthusiast of writing code. Code is art in itself and nothing
+brings me more fun than writing every line by hand. Browse through my
+various projects and explore, fork and have fun!
 
-Here are some ideas to get you started:
+Currently I'm working on using Nix to declare my homelab, writing a C
+compiler using Raku and trying to go over the hump of "good enough"
+with instowl to make it into a truly polished experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a little fun thing, check out my
+[stabbish](https://git.sr.ht/~ashymad/stabbish) project. I am quite
+proud of it and it actually quite recently saved my posterior, when I
+accidentaly borked my root filesystem.
+
+Last thing to note, the repositories here are mostly mirrors of my
+[sourcehut page](https://git.sr.ht/~ashymad), but I will still accept
+issues or PRs here, so no worries.
